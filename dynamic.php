@@ -83,7 +83,7 @@
     <div class="container">
        
         <?php
-        //Weka link kwente array
+        //Weka link kwenye array
             $links = array($php,$computer,$story,$python,$html,$css,$javascript,$mysql);
             $idadi = count($links);
             shuffle($links);
